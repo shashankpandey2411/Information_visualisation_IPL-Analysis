@@ -14,15 +14,23 @@ allows analyst to incorporate functions that are used by IPL application to fetc
 information. This project uses python, Python packages are: numpy, pandas, matplotlib, and
 seaborn and tableau, K-means clustering to extract the meaningful output which can be used
 by the management for analysis.
+
+
+
+
 ABOUT THE DATASET
 We	have	used	two	IPL	datasets	:-
 • Matches	dataset	- https://www.kaggle.com/josephgpinto/ipl-dataanalysis/data?select=matches.csv	
+
 • Deliveries	dataset	– https://www.kaggle.com/josephgpinto/ipl-dataanalysis/data	
+
 In	Matches	dataset	we	have	season(numerical),	city(categorical),	
 date(numerical),	teams	(categorical),	toss	winner(categorical),	toss	
 decision(categorical),	result	(categorical),	winner(categorical),	win	
 by	runs	and	wickets(numerical),	player	of	match(categorical),	
 venue(categorical)
+
+
 And	in	deliveries	dataset	we	have	match	id	(numerical),	inning	,	ball	,	
 over	,	super	over,	wide	runs,	no	ball	run,	penalty	run,	batsman	run,	
 extra	run,	total	run	and	wicket(numerical),	batting	and	bowling	
