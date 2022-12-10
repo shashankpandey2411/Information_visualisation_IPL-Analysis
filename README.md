@@ -1,4 +1,6 @@
-# information_visualisation_-IPL-analysis
+# Information_visualisation IPL-Analysis
+![image](https://user-images.githubusercontent.com/120237181/206840944-8f3c59f6-cafd-4259-a0ff-646875e57291.png)
+
 Cricket is one of the famous outdoor sports that contain a large set of statistical data in real
 world. As IPL games rise in popularity, it is necessary to examine the possible predictors that
 affect the outcome of the matches. The project aims at analysing the IPL cricket match results
@@ -43,5 +45,5 @@ player	dismissed	(categorical)	and	dismissal	kind	(categorical)
 
 
 
-![image](https://user-images.githubusercontent.com/120237181/206840944-8f3c59f6-cafd-4259-a0ff-646875e57291.png)
+
 
