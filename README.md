@@ -39,3 +39,9 @@ over	,	super	over,	wide	runs,	no	ball	run,	penalty	run,	batsman	run,
 extra	run,	total	run	and	wicket(numerical),	batting	and	bowling	
 team(categorical),	batsman	and	bowler	(categorical),	non	striker	and	
 player	dismissed	(categorical)	and	dismissal	kind	(categorical)
+
+
+
+
+![image](https://user-images.githubusercontent.com/120237181/206840944-8f3c59f6-cafd-4259-a0ff-646875e57291.png)
+
